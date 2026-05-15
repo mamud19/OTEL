@@ -1,8 +1,0 @@
-pyproject.toml
-exporters/__init__.py
-exporters/azure_exporter.py
-genai_otel_collector.egg-info/PKG-INFO
-genai_otel_collector.egg-info/SOURCES.txt
-genai_otel_collector.egg-info/dependency_links.txt
-genai_otel_collector.egg-info/requires.txt
-genai_otel_collector.egg-info/top_level.txt
