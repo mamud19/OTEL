@@ -98,7 +98,3 @@ The system uses a component-based architecture for processing LLM completions:
 - **Confidence Scorer (`src.confidence_scorer`)**: Generates confidence scores for responses to flag potentially hallucinated or low-quality content.
 - **Token Tracker (`src.token_tracker`)**: Computes cost estimates based on tokens used for different models.
 - **Exporters (`src.exporters`)**: Handles pushing OTEL spans to sinks like Azure Application Insights and the console.
-
-## Usage Example
-
-For a complete interactive chatbot implementation using the collector, check out `sample_chatbot.py` in the root directory.
